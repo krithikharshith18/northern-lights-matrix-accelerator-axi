@@ -42,7 +42,7 @@ Systolic arrays reduce memory traffic by allowing data to flow directly between 
 
 ![Systolic Array Principle](docs/systolic_array_principle.png)
 
-*Figure adapted from classical systolic-array literature.*
+*Figure adapted from classical systolic-array literature.(https://www.eecs.harvard.edu/~htk/publication/1982-kung-why-systolic-architecture.pdf)*
 
 ---
 
@@ -64,7 +64,7 @@ Partial sums remain inside each processing element while activations and weights
 
 ![Output Stationary Dataflow](docs/output_stationary_dataflow.png)
 
-*Source: Original authors of the referenced GEMM accelerator architecture.*
+*Source: [Original authors of the referenced GEMM accelerator architecture.](https://www.researchgate.net/figure/GEMM-core-internal-with-output-stationary-systolic-array-SA-consisting-four-column-and_fig4_366382440)*
 
 ---
 
